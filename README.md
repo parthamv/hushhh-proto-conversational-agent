@@ -18,4 +18,6 @@ npm run dev
 
 5. Uploading the json and csv files of instagram and twitter to pinecone vector database after converting it to vector embeddings using OpenAI embeddings
 
-use and run vector_store.py
+```
+python vector_store.py
+```
