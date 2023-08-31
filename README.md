@@ -16,8 +16,9 @@ npm install
 npm run dev
 ```
 
-5. Uploading the json and csv files of instagram and twitter to pinecone vector database after converting it to vector embeddings using OpenAI embeddings
+5. Uploading the json and csv files of Instagram and twitter to Pinecone vector database after converting them to vector embeddings using OpenAI embeddings
 
 ```
 python vector_store.py
 ```
+6. The design document is available i the GitHub repository as HUSH PROTO.docx
